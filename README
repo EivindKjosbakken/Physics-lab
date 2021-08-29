@@ -1,3 +1,3 @@
 The spring of 2021 we had a physics lab project where we in groups of four students had a an objects movement on a track, using the program Tracker.
 The purpose of the experiement was to calculate the object's speed, and the uncertainty of the speed estimate. In the included python file you can see
-the code for calculating the speed of the object using python and the numpy library. 
+the code for calculating the speed of the object using python and the numpy library, as well as using Matplotlib for visualization of the result. 
